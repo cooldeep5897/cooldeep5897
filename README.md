@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kuldeep Joshi
-- 👀 I’m interested in Algorithms and Data Structures.
-- 🌱 I’m currently learning React js and Node js.
+- 👋 Hi, I’m Kuldeep Joshi.
+- 👀 I’m interested in Algorithms and Data Structures and JAVA.
+- 🌱 I’m currently learning  React js and Node js.
 - 📫 Reach me at joshikuldeep5897@gmail.com
 
 <!---
