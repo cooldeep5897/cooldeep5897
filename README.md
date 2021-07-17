@@ -1,14 +1,15 @@
 - 👋 Hi, I’m Kuldeep Joshi.
+- 💻 Software Engineer with Highly skilled in Problem Solving
 - 👀 I’m interested in Algorithms and Data Structures and JAVA.
 - 🌱 I’m currently learning  React js and Node js.
+- 💼 Improving my Data structures & Algorithms skills.
 - 📫 Reach me at joshikuldeep5897@gmail.com
 
 <!---
 cooldeep5897/cooldeep5897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi! I'm Mohit Singh Negi
-About Me !  👨‍🎓
+
 
     💻 Software Engineer with Highly skilled in Problem Solving with a proven history of flawless development 🕹.
     👮 Experience in working with end to end lifecycle of application development 🛠.
